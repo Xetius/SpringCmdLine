@@ -10,6 +10,6 @@ public class CommandLineService {
 
     public String run() {
         LOG.debug("Starting Application");
-        return "Hello world!";
+        return "Running SpringCommandLineService!";
     }
 }
